@@ -1,61 +1,58 @@
 # Team Contract
 
-**Your team is free to revise this contract as your team wishes; we have scaffolded it with a recommended structure similar to the provided sample on Quercus.**
-
-After you reflect on past teamwork experiences and brainstorm a list of actions required for a positive teamwork experience, answer these questions. 
-
-Once you have all agreed on the contents of the team contract, make a PR to merge your team contract into the main branch of your team's repo on GitHub.
-
-**Please remember to remove any of the initial instruction text when your team finalizes your team contract; it should resemble the provided sample once complete, but with details specific to the expectations and norms agreed to by your entire team.**
-
----
 ## Purpose of this Contract
 
-This contract sets out shared expectations and commitments for how our team will collaborate during the course. It is designed to promote accountability, professionalism, and mutual support as we complete individual preparation, readiness assurance tests, in-class activities, and our course project.
+This contract outlines the shared expectations and responsibilities our team has agreed to follow throughout the course. Its purpose is to encourage accountability, respectful collaboration, and equal participation while completing course activities and the team project.
 
----
 ## Team Norms and Expectations
 
 ### Communication
 
-* Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.)
+- We will use **Discord** as our main communication platform outside of class.
+- Team members are expected to respond to messages within **24 hours on weekdays**.
+- Members should notify the team as early as possible if they expect to miss a class, meeting, or deadline, or if they are having difficulty completing an assigned task.
+- All communication should remain **respectful, professional, and constructive**.
+- Team members should actively listen to each other and make sure everyone has an opportunity to contribute ideas and opinions.
 
-* Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time? 
+### Attendance & Participation
 
-* What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
+- Members are expected to attend all scheduled classes and team meetings unless illness, emergencies, or other unavoidable circumstances occur.
+- If a member cannot attend, they should notify the team in advance whenever possible and provide any necessary input asynchronously.
+- During team activities, all members are expected to contribute ideas and participate actively in discussions.
 
-* Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
+### Work Quality
 
----
-
-### [Other Categories of norms and expectations go here]
-
-* Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-    - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
-
----
+- All assigned work should be completed **on time**, checked carefully, and meet the quality standards agreed upon by the team.
+- Members agree to review each other’s work and provide constructive feedback.
+- Each **Pull Request** should be reviewed by at least **two team members** before being merged.
 
 ## Decision Making
 
-* How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
+- The team will aim to make decisions through **consensus** whenever possible.
+- If a consensus cannot be reached, the team will hold a vote and the **majority decision will be followed**.
 
----
-## Conflict resolution
+## Conflict Resolution
 
-* How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
-
----
+- If a conflict arises, the team will first attempt to resolve the issue privately through respectful and open discussion.
+- Each member involved should have the opportunity to explain their perspective.
+- The team will attempt to reach a reasonable compromise.
+- If the issue cannot be resolved internally, a **TA, instructor, or another member of the course teaching team** may be asked to help mediate the situation.
 
 ## Accountability
 
-* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
+- Each team member is responsible for completing their assigned share of the work accurately and within the agreed deadlines.
+- Members should communicate early if they are unable to complete a responsibility or require assistance.
+- Team members should seek help from teammates, TAs, or instructors when necessary.
+- Persistent non-participation or failure to meet agreed expectations may result in **lower peer evaluation scores**.
+- All members agree to provide **honest and fair peer evaluations**.
 
----
+By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract will remain in effect for the duration of the course and may be revised if all team members agree to the changes.
 
----
+**Team Member Signatures:**
 
-By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members.
+Mariia Sidorovych  
+Edvart Kjoell  
+Zihan Chen  
+Jin Tao Shen Lin
 
-Team Member Signatures:
-
-(type names here)
+**Date:** 28.09.2026
